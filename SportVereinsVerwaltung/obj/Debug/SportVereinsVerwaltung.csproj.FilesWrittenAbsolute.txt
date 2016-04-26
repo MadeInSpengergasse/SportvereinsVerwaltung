@@ -1,0 +1,7 @@
+/home/luca/Dev/dbi_sql/SportVereinsVerwaltung/SportVereinsVerwaltung/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/luca/Dev/dbi_sql/SportVereinsVerwaltung/SportVereinsVerwaltung/bin/Debug/SportVereinsVerwaltung.exe.mdb
+/home/luca/Dev/dbi_sql/SportVereinsVerwaltung/SportVereinsVerwaltung/bin/Debug/SportVereinsVerwaltung.exe
+/home/luca/Dev/dbi_sql/SportVereinsVerwaltung/SportVereinsVerwaltung/obj/Debug/SportVereinsVerwaltung.exe
+/home/luca/Dev/dbi_sql/SportVereinsVerwaltung/SportVereinsVerwaltung/obj/Debug/SportVereinsVerwaltung.exe.mdb
+/home/luca/Dev/dbi_sql/SportVereinsVerwaltung/SportVereinsVerwaltung/bin/Debug/SportVereinsVerwaltung.exe.config
+/home/luca/Dev/dbi_sql/SportVereinsVerwaltung/SportVereinsVerwaltung/bin/Debug/MySql.Data.dll
