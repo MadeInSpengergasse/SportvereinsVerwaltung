@@ -9,13 +9,8 @@ namespace SportVereinsVerwaltung
   {
     static void Main(string[] args)
     {
-      string connectionString =
-          "Server=localhost;" +
-          "Database=schuldb;" +
-          "User ID=root;" +
-          "Pooling=false";
        IDbConnection dbcon;
-       dbcon = new MySqlConnection(connectionString);
+       dbcon = new MySqlConnection(SVVConfig.ConnectionString);
        dbcon.Open();
        IDbCommand dbcmd = dbcon.CreateCommand();
 
